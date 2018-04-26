@@ -94,7 +94,7 @@ class HighlightText extends React.Component {
     // var k = this.getData(this.data,this.zip)
     // console.log(k)
     console.log(this.zip)
-    fetch("https://vast-inlet-94679.herokuapp.com/api", {
+    fetch("http://lytymay.pythonanywhere.com/api", {
         method: 'POST',
         dataType: 'json',
         headers: {
