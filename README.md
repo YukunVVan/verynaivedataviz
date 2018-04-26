@@ -5,3 +5,6 @@
 
 Once user click "Search", the entered zipcode will be sent to server and return a json file for visualization.
 Using Fetch API to complete this interaction.
+
+- Future work
+May add basic template using Bootstrap
